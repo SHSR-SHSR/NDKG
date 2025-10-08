@@ -1,0 +1,448 @@
+IRI 	 Label 	 Definition
+http://purl.org/utmb/ndkg.owl#KGN_0000082	Atmospheric Dust Level	"Atmospheric dust is defined as the small, irregular, solid, heterogenic mineral particles in the atmosphere."
+http://purl.org/utmb/ndkg.owl#KGN_0000081	Depressurization	"The process of becoming lower in air pressure or causing a closed space, especially the inside of an aircraft, to become lower in air pressure."
+http://purl.org/utmb/ndkg.owl#KGN_0000086	Ingestion Toxicity	Systemic damage or injury to the body resulting from swallowing of a harmful substance in space flight.
+http://purl.obolibrary.org/obo/OHMI_0000003	Microbiome	"The microbiome is the community of microorganisms (such as fungi, bacteria and viruses) that exists in a particular environment."
+http://purl.org/utmb/ndkg.owl#KGN_0000085	Skin Irriration	"A substance which causes inflammation of the skin, principally a disease known as dermatitis."
+http://purl.org/utmb/ndkg.owl#KGN_0000089	Vascular Congestion	"Vasocongestion, vascular congestion or vascular engorgement is the swelling of bodily tissues caused by increased vascular blood flow and a localized increase in blood pressure."
+http://purl.obolibrary.org/obo/GO_0001964	Startle Reaction	"An unconscious defensive response to sudden or threatening stimuli such as a loud noise, sharp movement, or shock."
+http://purl.org/utmb/ndkg.owl#KGN_0000193	Thigh Cuffs	"Cuffs placed around the upper thigh which can be tightened or inflated to occlude venous (i.e., sequestering blood in the lower body) and arterial blood flow (i.e., blood flow restriction)."
+http://purl.org/utmb/ndkg.owl#KGN_0000071	Loss of EVA(s)	Inability to conduct planned or contingency extravehicular activities during a mission.
+http://purl.org/utmb/ndkg.owl#KGN_0000192	Thermal Environment	Cabin temperature and humidity environment during and post landing.
+http://purl.org/utmb/ndkg.owl#KGN_0000070	Environmental Injury	
+http://purl.org/utmb/ndkg.owl#KGN_0000191	Thermal Degradation	Chemicals produced when a material is exposed to elevated temperatures
+http://purl.org/utmb/ndkg.owl#KGN_0000076	EVA Duration	"Length of time an extravehicular activity lasts, can be planned or actual."
+http://purl.org/utmb/ndkg.owl#KGN_0000197	Toxic Substance Monitoring	Monitoring for specific toxic compounds of potential concern.
+http://snomed.info/id/6300007	Noise Exposure	"The level, spectrum, and duration of noise experienced by a human. Noise is defined as sound in the auditory range (15 Hz to 20,000 Hz) that is hazardous, undesired, and/or inappropriate to the intended use of the space.(NASA-STD-3001)"
+http://purl.org/utmb/ndkg.owl#KGN_0000075	EVA Frequency	"Number of extravehicular activities conducted in a given period, and how often are they occurring (tempo)."
+http://purl.org/utmb/ndkg.owl#KGN_0000196	Toxic Exposure	Contact with agents or substances in the interior of the spacecraft or spacesuit that can affect the health and performance of the astronauts.
+http://purl.org/utmb/ndkg.owl#KGN_0000074	EVA Operations	Activities performed by suited crew outside the pressurized environment of a flight vehicle or habitat (during space flight or on a destination surface).
+http://purl.org/utmb/ndkg.owl#KGN_0000195	Tool Design	"The form and function of a hardware/software device, implement, or method to accomplish a particular outcome in a specific operating environment."
+http://purl.org/utmb/ndkg.owl#KGN_0000073	Denitrogenation	To reduce the stored nitrogen in the body of by forced breathing of pure oxygen for a period of time especially as a measure designed to prevent development of decompression sickness.
+http://purl.org/utmb/ndkg.owl#KGN_0000194	Time Critical Procedure Execution	Accomplishing the steps in a procedure that must be completed within a specific period to prevent unwanted consequences and/or achieve the desired outcome.
+http://purl.org/utmb/ndkg.owl#KGN_0000079	Atmospheric Conditions	The atmospheric conditions that comprise the state of the atmosphere in terms of temperature and wind and clouds and precipitation.
+http://purl.org/utmb/ndkg.owl#KGN_0000078	EVA Task Timeline	Planning duration and quantity of tasks to ensure activities to be performed during an extravehicular activity are feasible and appropriate.
+http://purl.org/utmb/ndkg.owl#KGN_0000077	EVA (Risk)	Risk of Injury and Compromised Performance Due to EVA Operations.
+http://purl.org/utmb/ndkg.owl#KGN_0000198	Ultrasound Manipulation	Treatment modality to aid in movement of a renal stone either before it enters the ureter or moving it out of the ureter thus decreasing time of symptoms.
+http://purl.obolibrary.org/obo/OMIT_0003405	Burns	"Tissue injury resulting from excessive exposure to thermal, chemical, electrical, or radioactive agents."
+http://purl.allotrope.org/ontologies/process#AFP_0002683	Dust Removal	Elimination of dust from the airborne region of the habitat.
+http://purl.obolibrary.org/obo/NCIT_C459	Medications	"A pharmaceutical or other substance used for medical diagnosis, prevention, or treatment."
+http://purl.obolibrary.org/obo/OMIT_0006920	Gamma Rays	"Gamma rays have the smallest wavelengths and the most energy of any wave in the electromagnetic spectrum. They are produced by the hottest and most energetic objects in the universe, such as neutron stars and pulsars, supernova explosions, and regions around black holes. On Earth, gamma waves are generated by nuclear explosions, lightning, and the less dramatic activity of radioactive decay."
+http://purl.obolibrary.org/obo/NCIT_C64384	Ultrasound	"An ultrasound is an imaging test that uses sound waves to make pictures of organs, tissues, and other structures inside your body. It allows your health care provider to see into your body without surgery. Ultrasound is also called ultrasonography or sonography. Ultrasound images may be called sonograms."
+http://purl.org/utmb/ndkg.owl#KGN_0000098	Sensory Augmentation	"A style of design (particularly, in this context, for education) emphasizing the ways in which technology can be used to alter or augment the human sensory apparatus."
+http://purl.org/utmb/ndkg.owl#KGN_0000097	Sleep Deficiencies	Obtaining sleep of insufficient quantity or quality.
+http://purl.obolibrary.org/obo/OMIT_0014430	Sympathomimetics	Sympathomimetic drugs (also known as adrenergic drugs and adrenergic amines) are stimulant compounds which mimic the effects of endogenous agonists of the sympathetic nervous system.
+http://purl.org/utmb/ndkg.owl#KGN_0000096	Sleep (Inertia)	"Sleep inertia is a transitional state between sleep and wake (i.e., grogginess experienced upon waking), accompanied by cognitive impairment and desire to return to sleep."
+http://purl.org/utmb/ndkg.owl#KGN_0000095	Sleep (Risk)	"Risk of Performance Decrements and Adverse Health Outcomes Resulting from Sleep Loss, Circadian Desynchronization, and Work Overload."
+http://snomed.info/id/212953005	DCS(Diagnosing Decompression Sickness) I	"Type 1 DCS is usually characterized by musculoskeletal pain and mild cutaneous, or skin, symptoms. Common Type 1 skin manifestations include itching and mild rashes (as distinct from a clear mottled or marbled and sometimes raised discoloration of the skin — a condition that is known as cutis marmorata that may presage the development of the more serious symptoms of Type 2 DCS)."
+http://purl.obolibrary.org/obo/NCIT_C114696	Ureterolithiasis	"Ureterolithiasis, also known as ureteral stone, is a medical condition characterized by the presence of a stone or stones within the ureter, which is the tube connecting the kidney to the bladder. These stones can cause pain, obstruction, and infection as they move through the urinary tract or become lodged in the ureter."
+http://purl.obolibrary.org/obo/OBI_0400064	Laser	"Device that emits a coherent beam of light typically falling within the ultraviolet, visible, or infrared range of the electromagnetic spectrum."
+http://purl.org/utmb/ndkg.owl#KGN_0000160	Bone Fracture (Risk)	Risk of Bone Fracture due to Space flight-induced changes to Bone.
+http://purl.org/utmb/ndkg.owl#KGN_0000281	Detect EVA Readiness	"Ability to identify, measure and report the preparedness of equipment and crew to conduct an extravehicular activity (EVA)."
+http://purl.org/utmb/ndkg.owl#KGN_0000280	Detect Environmental Conditions	"Ability to identify, measure and report the state of the surroundings"
+http://purl.org/utmb/ndkg.owl#KGN_0000043	Orthostatic Intolerance countermeasures	Orthostatic intolerance refers to the inability to remain upright without symptoms. This inability can be associated with cardiovascular changes such as a decrease in blood pressure (BP) in orthostatic hypotension (OH).
+http://purl.org/utmb/ndkg.owl#KGN_0000164	Dust (Risk)	Risk of Adverse Health & Performance Effects of Celestial Dust Exposure.
+http://purl.org/utmb/ndkg.owl#KGN_0000285	Detect Intracranial Pressure Changes	"Ability to identify, measure and report changes in intracranial pressure."
+http://purl.org/utmb/ndkg.owl#KGN_0000042	Vascular Structure	"The vascular system or the circulatory system carries blood and lymph throughout the body. The blood vessels like arteries and veins carry blood throughout the body, transporting oxygen and nutrients to the pheripheral tissues and removing the wastes from target tissues. The lymph vessels filter and drain lymph from the body to maintain the fluid environment."
+http://purl.org/utmb/ndkg.owl#KGN_0000163	DCS (Risk)	Risk of Decompression Sickness (DCS).
+http://purl.org/utmb/ndkg.owl#KGN_0000284	Detect Immune Changes	"Ability to identify, measure and report the progression of Immune Dysregulation from Persistent Subclinical Immune Dysregulation to Clinically Significant Immune Dysregulation to Medical Illness"
+http://purl.org/utmb/ndkg.owl#KGN_0000162	Crew Egress (Risk)	Risk to Vehicle Crew Egress Capability as Applied to Earth and Extraterrestrial Landings.
+http://purl.org/utmb/ndkg.owl#KGN_0000283	Detect Hearing Changes	"Ability to identify and measure changes in auditory performance, may use audiometric surveillance or crewmember report."
+http://purl.org/utmb/ndkg.owl#KGN_0000161	CO2 (Risk)	Risk of Nominal Acute and Chronic Ambient Carbon.
+http://purl.org/utmb/ndkg.owl#KGN_0000282	Detect Events	"Ability to identify, measure and report a notable divergence from what is nominal and/or expected for vehicle, habitat, spacesuit or human systems."
+http://purl.org/utmb/ndkg.owl#KGN_0000289	Detect Ocular Structural Changes	"Ability to identify, measure and report ocular structural changes."
+http://purl.org/utmb/ndkg.owl#KGN_0000046	Intravascular Volume	"Intravascular volume status refers to the volume of blood in a patient's circulatory system, and is essentially the blood plasma component of the overall volume status of the body, which otherwise includes both intracellular fluid and extracellular fluid."
+http://purl.org/utmb/ndkg.owl#KGN_0000288	Detect Noise Levels	"Ability to identify, measure and report ambient noise levels through personal dosimetry and/or static measurement using a sound level meter."
+http://addictovocab.org/ADDICTO_0001250	Pharmaceutical Effectiveness	The extent to which a drug achieves its intended (labeled) effect under standard clinical conditions.
+http://purl.org/utmb/ndkg.owl#KGN_0000166	Food and Nutrition (Risk)	Risk of Performance Decrement and Crew Illness Due to Inadequate Food and Nutrition.
+http://purl.org/utmb/ndkg.owl#KGN_0000287	Detect MRM/Stone	"Ability to identify, measure and report mineralized (MRM) renal material or stones in the urinary tract."
+http://purl.org/utmb/ndkg.owl#KGN_0000165	Electrical Shock (Risk)	Risk to Crew Health Due to Electrical Shock.
+http://purl.org/utmb/ndkg.owl#KGN_0000286	Detect Long Term Health Outcomes	"Ability to identify, measure and report if any health outcomes have occurred post-space flight or postcareer as a result of their occupational exposures (and resultant immune dysregulation) during space flight or training."
+http://purl.org/utmb/ndkg.owl#KGN_0000159	Behavioral (Risk)	Risk of Adverse Cognitive or Behavioral Conditions and Psychiatric Disorders.
+http://purl.org/utmb/ndkg.owl#KGN_0000037	Aerobic (Risk)	Risk of Reduced Physical Performance Capabilities due to Reduced Aerobic Capacity.
+http://purl.org/utmb/ndkg.owl#KGN_0000158	Neuro/Ocular Injury	"Traumatic brain injury usually results from a violent blow or jolt to the head or body. An object that goes through brain tissue, such as a bullet or shattered piece of skull, also can cause traumatic brain injury."
+http://purl.org/utmb/ndkg.owl#KGN_0000279	Detect Dysrhythmia	"Ability to identify, measure and report any abnormal heart rhythm."
+http://purl.obolibrary.org/obo/NCIT_C3475	Bone Remodeling	Highly regulated process by which old or damaged bone tissue is removed and replaced with new bone material.
+http://purl.org/utmb/ndkg.owl#KGN_0000391	Pharmaceutical Storage Conditions	"Acceptable environmental conditions (temperature, humidity) for storage of medications set forth by the United States Pharmacopeia (USP)."
+http://purl.org/utmb/ndkg.owl#KGN_0000274	Detect CO2 Level	"Ability to identify, measure and report the presence and amount of carbon dioxide."
+http://purl.org/utmb/ndkg.owl#KGN_0000395	Planned EVA Content	Predetermined tasks expected to be completed during an extravehicular activity.
+http://purl.org/utmb/ndkg.owl#KGN_0000152	Team Cohesion	Tendency for a group to operate in a unified fashion while working towards a goal or to satisfy the emotional needs of its members.
+http://purl.org/utmb/ndkg.owl#KGN_0000273	Detect BHP Changes	"Ability to identify, measure and report changes in the behavioral and cognitive state of astronauts in the vehicle/habitat/suit."
+http://purl.org/utmb/ndkg.owl#KGN_0000394	Physiological Monitoring Capability	"Capability to assess, log, and track aspects of crew health that provide insight into physiologic response to stimuli that is designed into the Crew Health and Performance Systems."
+http://purl.org/utmb/ndkg.owl#KGN_0000030	Musculoskeletal Loads	"Forces that are applied to/experienced by the body including forces on the tissues, fluids, or materials of the body."
+http://purl.org/utmb/ndkg.owl#KGN_0000151	Team Cognition	"Shared understanding among team members that is related to roles and responsibilities; team norms; familiarity with team members’ knowledge, skills, and abilities; and engaging in team decision-making and problem-solving."
+http://purl.org/utmb/ndkg.owl#KGN_0000272	Detect Atmospheric Dust	"Ability to identify, measure and report airborne dust within the habitat to assess concentration."
+http://purl.org/utmb/ndkg.owl#KGN_0000393	Physical Status	"Subset of Individual Factors - Refers to the condition of the crewmember at any given time during a mission. Can be affected by injuries, activity level, diet, nutrition, sleep cycle, and workload."
+http://purl.org/utmb/ndkg.owl#KGN_0000271	Detect Brain Structual Changes	"Ability to identify, measure and report brain structural changes."
+http://purl.org/utmb/ndkg.owl#KGN_0000392	Pharmaceutical Toxicity	The expression of a poisonous or harmful effect a drug can produce.
+http://purl.org/utmb/ndkg.owl#KGN_0000157	Musculoskeletal Injuries	"Musculoskeletal disorders (MSD) are injuries or disorders of the muscles, nerves, tendons, joints, cartilage, and spinal discs."
+http://purl.org/utmb/ndkg.owl#KGN_0000278	Detect Diagnosis	Ability to correctly detect and identify the cause of any medical issues during a space flight mission.
+http://purl.org/utmb/ndkg.owl#KGN_0000035	Dynamic Load (Risk)	Risk of Injury from Dynamic Loads.
+http://purl.org/utmb/ndkg.owl#KGN_0000156	Connective Tissue Changes	"Changes to the tissue (bone, cartilage, fat, blood, or lymphatic) that supports, protects, and gives structure to other tissues and organs in the body."
+http://purl.org/utmb/ndkg.owl#KGN_0000277	Detect DCS	"Ability to identify, measure and report if there is supersaturation of inert gas in the bloodstream and tissues."
+http://purl.org/utmb/ndkg.owl#KGN_0000398	Preflight Hearing Status	The audiometric thresholds obtained prior to flight that quantify auditory performance.
+http://purl.org/utmb/ndkg.owl#KGN_0000034	Suit Design	The form and function of the spacesuit to support the operational mission goals and performance environment.
+http://purl.org/utmb/ndkg.owl#KGN_0000155	Combustion/Smoldering Events	"Combustion, or burning, is a high-temperature exothermic redox chemical reaction between a fuel (the reductant) and an oxidant, usually atmospheric oxygen, that produces oxidized, often gaseous products, in a mixture termed as smoke."
+http://purl.org/utmb/ndkg.owl#KGN_0000276	Detect CV Events	"Ability to identify, measure and report cardiovascular (CV) events in-mission."
+http://snomed.info/id/316358009	Lung Injury	Any damage to the upper or lower airways
+http://purl.org/utmb/ndkg.owl#KGN_0000033	Muscle (Risk)	"Risk of Impaired Performance Due to Reduced Muscle Size, Strength, and Endurance."
+http://purl.org/utmb/ndkg.owl#KGN_0000275	Detect Contamination	"Ability to identify, measure and report harmful, unwholesome, or undesirable, substances in the air, water, food, pharmaceuticals, or surfaces."
+http://purl.org/utmb/ndkg.owl#KGN_0000396	Postural Control & Locomotion	"Ability to maintain balance during static postures (lying, sitting, standing) and dynamic movements (walking, tandem walking, jumping)."
+http://purl.org/utmb/ndkg.owl#KGN_0000148	Suit Habitability	"Capability of an EVA suit to provide a microenvironment for crew that must provide all the life support, nutrition, hydration, waste, and consumables management function of an actual space vehicle, while allowing crew members to perform mission tasks."
+http://purl.org/utmb/ndkg.owl#KGN_0000269	Data Accessibility	The degree to which crew can access and meaningfully use data gathered by spacecraft systems and medical systems.
+http://purl.org/utmb/ndkg.owl#KGN_0000026	Central Nervous System Changes	Alterations in Central Nervous System function that may be temporary or persistent.
+http://purl.org/utmb/ndkg.owl#KGN_0000268	Crew Vehicle Integration	"What vehicle and systems are fielded, how complex and maintainable they are, and how information on system state is provided back to crew and ground support."
+http://purl.org/utmb/ndkg.owl#KGN_0000389	Pharmaceutical Contamination	Harmful or poisonous substances that can be introduced into pharmaceuticals when repackaged.
+http://purl.org/utmb/ndkg.owl#KGN_0000061	Medical Prevention Capability	
+http://purl.org/utmb/ndkg.owl#KGN_0000060	Endocrine Factors	Endocrine factors are substances produced in one organ or cell type that act at a site that is distinct from the origin.
+http://purl.org/utmb/ndkg.owl#KGN_0000180	On Board Expertise	"The collective knowledge, skills, and abilities of the integrated human-system team on the vehicle, especially pertaining to vehicle systems and complex operations."
+http://purl.org/utmb/ndkg.owl#KGN_0000065	Post Landing Task Performance	"Ability to carry out post landing tasks in a manner that avoids crew injury. Tasks may include vehicle safing, as well as tasks resulting from off-nominal landings."
+http://purl.org/utmb/ndkg.owl#KGN_0000186	Suit Failure	"Compromised function of the suit system possibly due to the unanticipated malfunction of a component, unexpected interaction of subsystems, unintended behavior, or external environmental effect."
+http://purl.org/utmb/ndkg.owl#KGN_0000064	HSIA[Human Systems Integration Architecture] (Risk)	"Given need for increasing crew independence and greater operational complexity in future exploration missions, there is a possibility of adverse outcomes associated with deficiencies in Human Systems Integration, specifically that crew are unable to adequately respond to unanticipated critical malfunctions and/or perform safety critical procedures."
+http://purl.org/utmb/ndkg.owl#KGN_0000185	Self Administered Rehab	A set of exercises that are designed to incrementally increase in difficulty and challenge the sensorimotor system.
+http://purl.org/utmb/ndkg.owl#KGN_0000063	Medical Treatment Capability	
+http://purl.org/utmb/ndkg.owl#KGN_0000184	Pre-Mission Food Storage Time	The length of time food has been refrigerated or packaged before a mission. This can range from weeks to years.
+http://purl.org/utmb/ndkg.owl#KGN_0000062	Medical Monitoring Capability	
+http://purl.org/utmb/ndkg.owl#KGN_0000183	Persistent Subclinical Immune Dysregulation	"Changes in cellular proliferation and function that does not have a known clinical issue directly following it; chronic """"off nominal"""" immune status due to stress, environment, or other mission factors."
+http://purl.org/utmb/ndkg.owl#KGN_0000067	Procedure Design	"The plan of action including steps, conditions, and constraints used to complete a specific mission goal."
+http://purl.obolibrary.org/obo/HP_0002835	Aspiration	"Pulmonary aspiration is the entry of material such as pharyngeal secretions, food or drink, or stomach contents from the oropharynx or gastrointestinal tract, into the larynx (voice box) and lower respiratory tract, the portions of the respiratory system from the trachea (windpipe) to the lungs."
+http://purl.obolibrary.org/obo/NCIT_C190708	Post Voidal Residual	The amount of urine left in the bladder after urination.
+http://purl.org/utmb/ndkg.owl#KGN_0000059	Fluid Shifts	A shift in the distribution of human body fluids due to the effects of microgravity.
+http://purl.obolibrary.org/obo/NCIT_C114667	Nephrolithiasis	Presence of stones in the urine collection area of the kidney
+http://semanticscience.org/resource/SIO_010308	Metabolism	Metabolism refers to the whole sum of reactions that occur throughout the body within each cell and that provide the body with energy. This energy gets used for vital processes and the synthesis of new organicmaterial.
+http://snomed.info/id/715239002	Sudden Sensorineural Loss	"An unexplained, rapid loss of hearing (in the inner ear) that occurs all at once or over a few days. One or both ears may be affected."
+http://purl.org/utmb/ndkg.owl#KGN_0000171	Landing Profile	"Duration, direction, and magnitude of acceleration that a crewmember experiences during landing on a terrestrial or extraterrestrial surface, arriving on solid ground or in water."
+http://purl.org/utmb/ndkg.owl#KGN_0000292	Detect Pressure Changes	"Ability to identify, measure and report the presence of fluctuations in atmospheric pressure."
+http://snomed.info/id/240131006	Rhabdomyolysis	Rhabdomyolysis (often called rhabdo) is a serious medical condition that can be fatal or result in permanent disability. Rhabdo occurs when damaged muscle tissue releases its proteins and electrolytes into the blood. These substances can damage the heart and kidneys and cause permanent disability or even death.
+http://purl.org/utmb/ndkg.owl#KGN_0000170	Hematologic Index Alterations	Changes in the absolute or relative proportions of the blood constituents.
+http://purl.org/utmb/ndkg.owl#KGN_0000291	Detect Post Void Residual	"Ability to identify, measure and report on the amount of urine in the bladder following urination."
+http://purl.org/utmb/ndkg.owl#KGN_0000290	Detect Physiological Changes	"Ability to identify, measure and report the cellular, molecular, physiologic, pathologic, and functional changes that occur in individual astronauts during a space flight mission."
+http://purl.org/utmb/ndkg.owl#KGN_0000054	Chondrocyte Metabolism	"Chondrocyte metabolism is normally oxidative phosphorylation. If the microenvironment around the cartilage changes (usually inflammatory changes), then it results in a shift in the chondrocyte metabolism to glycolysis."
+http://purl.org/utmb/ndkg.owl#KGN_0000296	Detect Toxic Exposure	"Ability to identify, measure and report specific toxic compounds of potential concern."
+http://purl.org/utmb/ndkg.owl#KGN_0000295	Detect Thrombosis	"Ability to identify, measure and report the presence of a clot within a blood vessel."
+http://purl.org/utmb/ndkg.owl#KGN_0000173	Mineralized Renal Material	"Nascent areas of renal calcification detected by ultrasound; five characteristics help define MRM: shadowing, Doppler twinkle, frequency dispersion, size, and anatomic location."
+http://purl.org/utmb/ndkg.owl#KGN_0000294	Detect Team Performance & Cohesion	"Ability to identify, measure and report the changes in crew performance and cohesion over time using monitoring tools."
+http://snomed.info/id/462956002	Shielding	"A barrier between a source of radiation and a potential target (e.g., the astronaut); shielding can be solid, liquid or gas which absorbs the energy of the radiation."
+http://purl.org/utmb/ndkg.owl#KGN_0000293	Detect Radiation	"Ability to identify, measure and report the level of ionizing radiation."
+http://purl.org/utmb/ndkg.owl#KGN_0000058	Cardiovascular (Risk)	"CV risk is defined as the likelihood of a person to develop an ASCVD event over a defined period of time, and it combines the effects of a number of risk factors."
+http://purl.org/utmb/ndkg.owl#KGN_0000179	Nutrient Toxicity	Nutrient toxicity occurs when an element is in excess of plant needs and decreases plant growth or quality.
+http://snomed.info/id/39021009	Refractive Error Shift	"Refractive error is a problem with focusing light accurately on the retina due to the shape of the eye and/or cornea. The most common types of refractive error are near-sightedness, far-sightedness, astigmatism, and presbyopia."
+http://purl.org/utmb/ndkg.owl#KGN_0000299	Diagnose Rhabdomyolysis	Identification of the destruction or degeneration of muscle tissue and the accompanied release of breakdown products into the bloodstream.
+http://purl.org/utmb/ndkg.owl#KGN_0000056	Detect Bone Structural Changes	"Ability to identify, measure and report changes (beyond measurement error) in 3D distribution of bone tissue over time with serial measurements of whole, cortical, and trabecular bones."
+http://purl.org/utmb/ndkg.owl#KGN_0000177	Net Habitable Volume	"The functional volume left available on a spacecraft after accounting for the loss of volume caused by deployed equipment, stowage, trash, and any other items that decrease the functional volume."
+http://purl.org/utmb/ndkg.owl#KGN_0000298	Diagnose Events	"Ability to identify the cause of an anomalous event thereby enabling appropriate maintenance and repair for vehicle, habitat, spacesuit or human systems."
+http://purl.obolibrary.org/obo/NCIT_C263	Anticoagulants	"An anticoagulant, commonly known as a blood thinner, is a chemical substance that prevents or reduces coagulation of blood, prolonging the clotting time."
+http://purl.org/utmb/ndkg.owl#KGN_0000055	Detect Atmospheric Changes	"Ability to identify, measure and report changes in bone mineral distribution in a 2D image (g/cm2) or 3D volume (g/cm3) of bone tissue over time."
+http://purl.org/utmb/ndkg.owl#KGN_0000176	Muscle Performance	"Muscle Performance refers to the capacity of the muscle to do work. The key elements of muscle performance are strength, power and endurance."
+http://purl.org/utmb/ndkg.owl#KGN_0000297	Detect Visual Changes	"Ability to identify, measure and report visual performance decrements."
+http://purl.obolibrary.org/obo/NCIT_C389	Oral Contraceptives	A group of hormone containing substances (estrogen and progestin) that are used in menstrual management and pregnancy prevention.
+http://purl.org/utmb/ndkg.owl#KGN_0000049	Fall Height	The fall height denotes the height from which the fall victim hits the ground or a different surface during a fall. The selection of the right dimensions for the suitable fall protection systems thus depends on the fall height and each specific work situation.
+http://purl.org/utmb/ndkg.owl#KGN_0000169	Globe Flattening	"Structural deformation (flattening) of the posterior side of the eyeball, typically centered at the insertion point of the optic nerve into the globe."
+http://snomed.info/id/27997000	Organ Perfusion	"Under or over perfusion of organs, possibly contributing to ischemia or organ damage."
+http://purl.obolibrary.org/obo/NCIT_C26037	Food Safety	Food safety encompasses the conditions and practices observed to preserve the safety and quality of food to prevent food contamination and food-borne illness.
+http://purl.obolibrary.org/obo/NCIT_C156809	Medical Illness	"State of complete physical, mental, and social well-being and not merely the absence of disease, or infirmity."
+http://purl.obolibrary.org/obo/NCIT_C2861	Side Effects	Unwanted or undesirable effects related to a drug. Also known as adverse effects.
+http://purl.obolibrary.org/obo/NCIT_C61044	Urine Chemistry	"The levels of stone-promoting substances (Ca, oxalate, uric acid, pH) in the urine and its pH."
+http://purl.obolibrary.org/obo/VT_0000348	Aerobic Fitness	Fitness is defined as the quality or state of being fit and healthy.
+http://purl.obolibrary.org/obo/MMO_0000363	DXA	"Dual-energy X-ray absorptiometry (DXA), an x-raybased test that measures bone mineral in a 2D projected image of bone tissue."
+http://purl.obolibrary.org/obo/NCIT_C128320	Infection	Invasion and multiplication of microorganisms in body tissues.
+http://purl.obolibrary.org/obo/OMIT_0002288	Anthropometry	"Anthropometry is the science that defines physical measures of a person’s size, form, and functional capacities. Applied to occupational injury prevention, anthropometric measurements are used to study the interaction of workers with tasks, tools, machines, vehicles, and personal protective equipment — especially to determine the degree of protection against dangerous exposures, whether chronic or acute."
+http://purl.obolibrary.org/obo/NCIT_C15299	Pharmacokinetics	"Pharmacokinetics, sometimes described as what the body does to a drug, refers to the movement of drug into, through, and out of the body—the time course of its absorption, bioavailability, distribution, metabolism, and excretion."
+http://www.ebi.ac.uk/efo/EFO_0003931	Bone Fracture	"A bone fracture is the medical definition for a broken bone. Fractures are usually caused by traumas like falls, car accidents or sports injuries."
+http://snomed.info/id/58607005	Neutrons	"A subatomic particle of about the same mass as a proton but without an electric charge, present in all atomic nuclei except those of ordinary hydrogen."
+http://purl.obolibrary.org/obo/NCIT_C38045	Catheterization	"Introduction of a catheter, a tubular, flexible instrument, passed into the body for withdrawal of fluids from (or introduction of fluids into) a blood vessel a body cavity."
+http://purl.obolibrary.org/obo/ExO_0000077	Biological Response	the response of a living tissue or organism to a stimulus.
+http://purl.obolibrary.org/obo/NCIT_C161405	QCT	"Quantitative Computed Tomography (QCT), an x-ray based diagnostic test that measures bone mineral in a 3D volume of bone tissue."
+http://purl.obolibrary.org/obo/RBO_00000027	Galactic Cosmic Radiation	Galactic Cosmic Radiation (GCR) is a dominant source of radiation that must be dealt with aboard current spacecraft and future space missions within our solar system. GCR comes from outside the solar system but primarily from within our Milky Way galaxy.
+http://purl.obolibrary.org/obo/NCIT_C88206	Humidity	"Humidity is the concentration of water vapor present in the air. Water vapor, the gaseous state of water, is generally invisible to the human eye."
+http://purl.obolibrary.org/obo/NCIT_C118727	Visual Field Defect	Dysfunction in central or peripheral vision.
+http://purl.obolibrary.org/obo/NCIT_C28495	Motivation	"Motivation is a word used to refer to the reason or reasons for engaging in a particular behavior, especially human behavior as studied in psychology and neuropsychology."
+http://purl.obolibrary.org/obo/OMIT_0024256	Thiazides	Any of a group of drugs used as oral diuretics especially in the control of high blood pressure
+http://purl.obolibrary.org/obo/OMIT_0027505	Recycling	Recycling is the process of converting waste materials into new materials and objects. This concept often includes the recovery of energy from waste materials. The recyclability of a material depends on its ability to reacquire the properties it had in its original state.
+http://purl.obolibrary.org/obo/NCIT_C168284	Dysrhythmia	"Dysrhythmia may refer to:Circadian dysrhythmias, disturbances of circadian (daily) rhythms including jet lag and disturbed sleep timing Cardiac dysrhythmia, a medical condition causing irregular heart rate, also called arrhythmia."
+http://purl.obolibrary.org/obo/NCIT_C34824	Motion Sickness	Vestibular disturbance leading to nausea and/or vomiting.
+http://purl.obolibrary.org/obo/OMIT_0019903	Probiotics	"Probiotics are live microorganisms that are intended to have health benefits when consumed or applied to the body. They can be found in yogurt and other fermented foods, dietary supplements, and beauty products."
+http://purl.obolibrary.org/obo/NCIT_C443	Bisphosphonates	"Bisphosphonates are a class of drugs that prevent the loss of bone density, used to treat osteoporosis and similar diseases."
+http://purl.obolibrary.org/obo/OMIT_0006712	Food Contamination	"Refers to foods that have been corrupted by a physical, biological, or chemical substance that renders the food unfit or unsafe for consumption."
+http://purl.obolibrary.org/obo/FOODON_03530206	Food Production	"The process of converting raw materials into edible food fit for human consumption including cultivating, crop management, harvesting, cleaning, fermenting, slicing, processing, packaging, etc."
+http://purl.obolibrary.org/obo/OMIT_0014339	Sunlight	"Sunlight is a portion of the electromagnetic radiation given off by the Sun, in particular infrared, visible, and ultraviolet light. On Earth, sunlight is scattered and filtered through Earth's atmosphere, and is obvious as daylight when the Sun is above the horizon."
+http://snomed.info/id/241976004	Ebullism	Ebullism is the spontaneous evolution of liquid water in tissues to water vapor at body temperature when the ambient pressure is 47 mmHg or less.
+http://purl.obolibrary.org/obo/NCIT_C19691	Cancer Model	A health-effects model intended to provide estimates of cancer risk and uncertainties for defined space radiation exposure scenarios.
+http://purl.obolibrary.org/obo/HP_0012378	Fatigue	"Weariness, exhaustion, or decreased attention. May result in decreased ability to perform mental or physical tasks."
+http://snomed.info/id/111293003	Venous Thrombosis	"Venous thrombosis is the blockage of a vein caused by a thrombus (blood clot). A common form of venous thrombosis is deep vein thrombosis (DVT), when a blood clot forms in the deep veins."
+http://purl.obolibrary.org/obo/NCIT_C66880	Anticholinergic	Anticholinergics (anticholinergic agents) are substances that block the action of the acetylcholine (ACh) neurotransmitter at synapses in the central and peripheral nervous system.
+http://snomed.info/id/193462001	Insomnia	Insomnia is a common sleep disorder that can make it hard to fall asleep or stay asleep.
+http://purl.obolibrary.org/obo/OMIT_0003220	Bone Resorption	Process by which osteoclasts break down the tissue in bones and release calcium from bone tissue to the blood.
+http://purl.obolibrary.org/obo/XCO_0001265	Stress	"Stress, whether physiological, biological or psychological, is an organism's response to a stressor such as an environmental condition. Stress is the body's method of reacting to a condition such as a threat, challenge or physical and psychological barrier."
+http://snomed.info/id/240138000	Cartilage Defect	A focal area of damaged cartilage at an articular surface (the surface where bones meet).
+http://purl.obolibrary.org/obo/NCIT_C17604	Food Preparation	"Making food ready for consumption including thawing, cooking, heating, cooling, cutting, assembling, and portioning."
+http://snomed.info/id/372509005	Tamsulosin	A medication (alpha-1 blocker) used to treat BPH. Off label use treatment for kidney stone expulsion.
+http://purl.obolibrary.org/obo/ENVO_01001023	Radiation	Radiation is the emission or transmission of energy in the form of waves or particles through space or a material medium.
+http://purl.obolibrary.org/obo/OBA_0003442	Skeletal Fragility 	Bone fragility is due to the low bone mass and microarchitectural deterioration of bone tissue in osteoporotic patients.
+http://purl.obolibrary.org/obo/NBO_0000356	Body Posture	The position the body or body segments such as extremities relative to each other and to accelerations or forces experienced within a vehicle or suit.
+http://purl.obolibrary.org/obo/SYMP_0000061	Inflammation	"Inflammation is a process by which your body's white blood cells and the things they make protect you from infection from outside invaders, such as bacteria and viruses."
+http://snomed.info/id/226355009	Nutrients	"A nutrient is a substance used by an organism to survive, grow, and reproduce."
+http://purl.obolibrary.org/obo/NCIT_C17741	Oxidative Stress	Oxidative stress is a phenomenon caused by an imbalance between production and accumulation of oxygen reactive species (ROS) in cells and tissues and the ability of a biological system to detoxify these reactive products.
+http://purl.org/utmb/ndkg.owl#KGN_0000300	Diagnostic Capability	"The sensors, data, tools, expertise, etc. that are available to identify any specific medical condition occurring in-mission"
+http://purl.org/utmb/ndkg.owl#KGN_0000420	Sensorimotor (Risk)	Risk of Altered Sensorimotor/Vestibular Function Impacting Critical Mission Tasks.
+http://purl.obolibrary.org/obo/NCIT_C53954	Bone Formation	Process by which osteoblasts produce new mineralized bone tissue.
+http://purl.org/utmb/ndkg.owl#KGN_0000414	Resupply	"The ability to restock consumables (i.e., medications, medical supplies, food, water, spare parts, etc.)."
+http://purl.org/utmb/ndkg.owl#KGN_0000413	Resource Availability	"Availability of necessary items needed for prevention, detection, and treatment of anomalies in the human and the vehicle."
+http://purl.org/utmb/ndkg.owl#KGN_0000411	Radiation Monitors	Device that allows for the determination of the amount of radiation within a spacecraft or for a particular person.
+http://purl.org/utmb/ndkg.owl#KGN_0000418	Seals/Gaskets	Potentially vulnerable portions of a suit system from a dust perspective.
+http://purl.org/utmb/ndkg.owl#KGN_0000417	Scheduling	"Arranging, controlling, and optimizing work and workloads to facilitate crew timeline of activities."
+http://purl.org/utmb/ndkg.owl#KGN_0000416	Schedule Shifting	Shifting sleep-wake timing to accommodate mission events.
+http://purl.org/utmb/ndkg.owl#KGN_0000415	Retinal Nerve Fiber Layer Atrophy	Retinal nerve fiber layer atrophy is associated with visual field loss over time in glaucoma suspect and glaucomatous eyes.
+http://purl.obolibrary.org/obo/OCCO_00000098	Spatial Orientation	"The accuracy of perceived body position with respect to a gravity-inertial vector and/or external surroundings (e.g., spacecraft)."
+http://edamontology.org/topic_3444	MRI	"Magnetic Resonance Imaging (MRI), a diagnostic test that measures the response of atomic nuclei in body tissue (hydrogen nuclei of water) to radio waves in a strong magnetic field."
+http://purl.obolibrary.org/obo/NCIT_C50790	Urinary Retention	A condition in which all the urine from the bladder cannot be emptied.
+http://purl.org/utmb/ndkg.owl#KGN_0000410	Radiation Carcinogenesis (Risk)	Risk of Radiation Carcinogenesis.
+http://purl.org/utmb/ndkg.owl#KGN_0000403	Prior Mission Exposures	Space flight exposures obtained during a previous mission for a particular astronaut.
+http://purl.org/utmb/ndkg.owl#KGN_0000402	Previous Injury	Damage or trauma to the body that occurred at any time in the past.
+http://purl.org/utmb/ndkg.owl#KGN_0000401	Preventive Source Control	"Measures taken to reduce, eliminate or prevent microbial spread."
+http://purl.org/utmb/ndkg.owl#KGN_0000400	Pressure Suits	Suits with pressure significantly lower than the ambient cabin pressure of a spacecraft.
+http://purl.org/utmb/ndkg.owl#KGN_0000407	Protective Equipment	A set of components used to mitigate or control effects of hazards prior to occurrence.
+http://purl.obolibrary.org/obo/NCIT_C39774	Aerobic Exercise	"Aerobic exercise is a physical activity that uses your body’s large muscle groups, is rhythmic and repetitive. It increases your heart rate and how much oxygen your body uses. Examples of aerobic exercises include walking, cycling and swimming. It reduces your risk of heart disease, diabetes, high blood pressure and high cholesterol."
+http://purl.org/utmb/ndkg.owl#KGN_0000406	Proprioception Change	Alterations in the internal sense of body movement and location.
+http://purl.org/utmb/ndkg.owl#KGN_0000405	Private Astronaut Missions	Space flight missions not managed by NASA or other government space agencies but instead by private organizations.
+http://purl.org/utmb/ndkg.owl#KGN_0000404	Privacy/Team Space	"Privacy: Having an acceptable level of control over the extent of sharing oneself (physically, behaviorally, or intellectually) with others. (NASA-STD-3001)/ Team Space: shared space that facilitates social interactions and teamwork."
+http://purl.org/utmb/ndkg.owl#KGN_0000409	Protective Windows and Filters	"Scratch panes, shades, or filters designed into spacecraft windows systems that provide protection from sunlight and laser exposures."
+http://snomed.info/id/38126007	Protective Glasses	"Specialized glasses providing eye protection from environmental exposures including foreign object debris, sunlight, laser, and some particle/chemical releases."
+http://snomed.info/id/91302008	Sepsis	"Sepsis is a serious condition in which the body responds improperly to an infection. The infection-fighting processes turn on the body, causing the organs to work poorly."
+http://purl.obolibrary.org/obo/MAXO_0035015	Visual Acuity Test	"A primary vision test which measures the visual system's ability to discern targets (e.g., letters) at a given distance (e.g., 20 feet) from the patient."
+http://snomed.info/id/226354008	Water Intake	"Water intake encompasses the total fluid intake consumed from foods, plain drinking water, and other beverages."
+http://purl.obolibrary.org/obo/NCIT_C18982	Charged Particles	"An atomic particle that has an electric charge, either positive or negative."
+http://purl.obolibrary.org/obo/NCIT_C16567	Exercise	Any bodily activity that enhances or maintains physical fitness and overall health and wellness.
+http://purl.obolibrary.org/obo/NCIT_C20828	Optical Coherence Tomography	"Non-invasive ophthalmic imaging technology that provides high-resolution, cross-sectional views of ocular anatomy (e.g., retina, cornea), as well as images that mimic color retinal photography."
+http://purl.obolibrary.org/obo/OMIT_0003169	Blood Viscosity	A measure of the resistance to blood flow.
+http://purl.obolibrary.org/obo/NCIT_C1505	Supplements	A supplement is something added to something else. Nutritional supplements add vitamins and minerals to the ones already included in the food you eat.
+http://purl.obolibrary.org/obo/OMIT_0018665	Altered Gravity	Gravity environment that is less than Earth-normal (1g)
+http://snomed.info/id/271594007	Presyncope/Syncope	The most uniform definition is “feeling like one was going to pass out but without actual loss of consciousness.” Near syncope can last for seconds to minutes.
+http://purl.obolibrary.org/obo/NCIT_C156703	Fine Motor Control	"The coordination and dexterity of muscles, bones, and nerves required to produce precise movements."
+http://purl.obolibrary.org/obo/OMIT_0016250	Bone Density	Mineral content within a projected image of bone (area) or a spatial volume of bone.
+http://snomed.info/id/212968006	Starvation	"Starvation is a severe deficiency in caloric energy intake, below the level needed to maintain an organism's life. It is the most extreme form of malnutrition."
+http://edamontology.org/topic_3365	Data Architecture	"The models, policies, rules, and standards that govern which data is collected and how it is stored, arranged, integrated, and used in data systems."
+http://purl.obolibrary.org/obo/NCIT_C69192	Psychological Status	"A psychological state is a person's state of mind which comprises a diverse class, including pain experience, perception, desire, belief, intention, emotion, and memory."
+http://purl.obolibrary.org/obo/NCBITaxon_6754	Cancer	"Cancer is a group of diseases involving abnormal cell growth with the potential to invade or spread to other parts of the body. These contrast with benign tumors, which do not spread."
+http://purl.org/utmb/ndkg.owl#NDKG_0000002	_NDKG_Classes	
+http://purl.obolibrary.org/obo/NCIT_C20050	Pharmacogenomics	"Pharmacogenomics is the study of how genes affect a person’s response to drugs. This field combines pharmacology (the science of drugs) and genomics (the study of genes and their functions) to develop effective, safe medications that can be prescribed based on a person’s genetic makeup."
+http://purl.obolibrary.org/obo/NCIT_C94401	Blood Stagnation	A decrease in blood flow velocity or net movement of blood through a vessel.
+http://purl.org/utmb/ndkg.owl#KGN_0000362	Materials Offgassing	Volatile compounds that are produced and released into the air over time and as a function of temperature from soft goods like plastics.
+http://purl.org/utmb/ndkg.owl#KGN_0000240	Burn Treatment Capability	Medical management and care of a burn.
+http://purl.org/utmb/ndkg.owl#KGN_0000361	Manufacturer Shelf Life	"A period that a drug manufacturer guarantees product quality, from date of manufacture until the labeled expiration date."
+http://purl.org/utmb/ndkg.owl#KGN_0000360	Lower Body Negative Pressure	A device/chamber covering the lower body that is sealed at the waist which through decompression intended to cause fluid shifts to the lower body.
+http://purl.org/utmb/ndkg.owl#KGN_0000245	Cancer Treatment	"Use of surgery, radiation therapy, medications, and/or other therapies to cure a cancer, shrink a tumor, or reduce tumor burden."
+http://purl.org/utmb/ndkg.owl#KGN_0000366	Medical Diagnostic Capability	The in-mission capability to correctly detect and identify the cause of medical issues in space flight.
+http://purl.obolibrary.org/obo/OMIT_0013831	Social Support	"Collective structure (perceived or real) for help or aid from a mixture of relationships such as friends, family, colleagues, acquaintances, and the public; perceived social support is when individuals believe they have support available."
+http://purl.org/utmb/ndkg.owl#KGN_0000365	Mechanical Systems	"Sub-components including pumps, seals/gaskets, valves, and mechanical parts that contribute to the Environmental Control and Life Support Systems for vehicles and suits."
+http://purl.org/utmb/ndkg.owl#KGN_0000001	Isolation & Confinement	Behavioral responses occur among groups of people far from Earth who are isolated and confined in a small space over a long period of time.
+http://purl.org/utmb/ndkg.owl#KGN_0000364	Mechanical Obstruction	A partial or total blockage of the bladder out flow tract caused by an object.
+http://purl.org/utmb/ndkg.owl#KGN_0000242	Cabin Visibility	Ability of the crew to see within the habitable volume.
+http://purl.org/utmb/ndkg.owl#KGN_0000363	Measurable Hearing Shift	A change in auditory thresholds that is greater than normal test re-test variability.
+http://purl.org/utmb/ndkg.owl#KGN_0000238	Brain Structural Changes	Anatomical alterations to the brain.
+http://purl.org/utmb/ndkg.owl#KGN_0000359	Loss of Vehicle	"The vehicle is rendered unusable during a mission, requiring evacuation of crew."
+http://purl.org/utmb/ndkg.owl#KGN_0000116	Hygiene 	"Hygiene is a set of practices performed to preserve health. According to the World Health Organization (WHO), ""Hygiene refers to conditions and practices that help to maintain health and prevent the spread of diseases."
+http://purl.org/utmb/ndkg.owl#KGN_0000237	Bone Structure	Spatial distribution of bone tissue (minerals and collagen matrix) in a 3D volume of whole bone.
+http://purl.org/utmb/ndkg.owl#KGN_0000358	Loss of Mission Objectives	"Some mission objectives are lost, and other mission objectives can still be achieved."
+http://purl.org/utmb/ndkg.owl#KGN_0000115	Hydration	The action of providing liquid to bodily tissues to compensate for fluid lost from the body.
+http://purl.org/utmb/ndkg.owl#KGN_0000357	Loss of Mission	Evacuation/abort prior to mission objectives being accomplished.
+http://purl.org/utmb/ndkg.owl#KGN_0000356	Loss of EVA Content	Loss of one or more planned objective during extravehicular activities during a mission.
+http://purl.org/utmb/ndkg.owl#KGN_0000119	Intracranial Pressure Monitoring	The act of measuring pressure exerted by fluids such as cerebrospinal fluid (CSF) inside the skull and on the brain tissue.
+http://purl.org/utmb/ndkg.owl#KGN_0000118	Intracochlear Pressure	An increase in the static pressure of cochlear fluids.
+http://purl.org/utmb/ndkg.owl#KGN_0000239	Breathing Mask	"A breathing mask is a mask that covers the mouth, nose, and optionally other parts of the face or head, designed to constrain and direct the wearer's breath to and/or from a particular breathing apparatus."
+http://purl.obolibrary.org/obo/GSSO_000924	Cognitive Function	Any mental process that involves symbolic operations. Cognitive function encompasses awareness and capacity for judgment.
+http://snomed.info/id/417746004	Traumatic Injury	"Traumatic injury is a term which refers to physical injuries of sudden onset and severity which require immediate medical attention. The insult may cause systemic shock called “shock trauma”, and may require immediate resuscitation and interventions to save life and limb."
+http://purl.org/utmb/ndkg.owl#KGN_0000351	Long Term Health Outcomes	Risk Impact Category indicating the lifetime impact of space flight on physical and mental health and performance of astronaut’s post flight including postcareer.
+http://purl.org/utmb/ndkg.owl#KGN_0000350	Landing Site Environment	The state of the surroundings where a vehicle will land. Includes climate and accessibility by ground support.
+http://purl.obolibrary.org/obo/NCIT_C3293	Osteoarthritis	A degenerative disease that occurs when the protective cartilage that cushions the ends of the bones wears down over time often resulting in chronic joint pain.
+http://purl.org/utmb/ndkg.owl#KGN_0000113	Plasma Induced Shock	"The generation of plasma in a very intense electrical field and the subsequent tissue removal due to shock wave propagation, cavitation and jet formation."
+http://purl.org/utmb/ndkg.owl#KGN_0000355	Loss of Crew Life	Loss of (a single) crewmember life during the mission.
+http://purl.org/utmb/ndkg.owl#KGN_0000476	Interpersonal Relationships	"Emotional, psychosocial relationships between two individuals."
+http://purl.org/utmb/ndkg.owl#KGN_0000112	Electrical Shock	"Electrical shock, the perceptible and physical effect of an electrical current that enters the body."
+http://purl.org/utmb/ndkg.owl#KGN_0000354	Loss of Crew	Loss of (the whole) crew during the mission.
+http://purl.org/utmb/ndkg.owl#KGN_0000475	Family Effects	"Perceived connectedness with family, stress associated with family relationships or with family situations that are influencing family members' well-being"
+http://purl.org/utmb/ndkg.owl#KGN_0000474	Artificial Gravity	"The creation of an inertial force that mimics the effects of a gravitational force, usually by rotation"
+http://purl.org/utmb/ndkg.owl#KGN_0000110	Ototoxins	"Ototoxicity refers to damage to the hearing and / or balance organs that occurs after exposure to medications or chemicals that affect the inner ear. Ototoxic medications can damage hearing, balance, or both."
+http://purl.org/utmb/ndkg.owl#KGN_0000352	Long Term Health Clinical Decisions	Any clinical decisions occurring post-flight or post career that are based on prior space flight exposure data and/or clinical testing data.
+http://purl.org/utmb/ndkg.owl#KGN_0000473	Intracranial Pressure Changes	Changes from an individual’s nominal baseline intracranial pressure
+http://purl.org/utmb/ndkg.owl#KGN_0000348	K+ Citrate	"Potassium citrate, a medication which modifies urine chemistry (making urine less acidic)."
+http://purl.org/utmb/ndkg.owl#KGN_0000469	Environmental Risk	Risks with potentially harmful factors originating from external conditions or surrounding
+http://purl.org/utmb/ndkg.owl#KGN_0000226	BHP Family Services	Behavioral health and performance (BHP) support including counseling for astronauts and their families; launch and landing support; and in-mission psychological support.
+http://purl.org/utmb/ndkg.owl#KGN_0000347	Intervention Source Control	"Control measures at the site of origin, such as debridement, drainage and/or excision, used to control ongoing infection."
+http://purl.org/utmb/ndkg.owl#KGN_0000468	Nutrient Deficiencies	Nutrient deficiencies occur when the body is not getting enough nutrients to support normal physiological system function.
+http://purl.org/utmb/ndkg.owl#KGN_0000225	BHP Countermeasures	"Behavioral health and performance (BHP) actions, procedures, equipment, standards, or requirements."
+http://purl.org/utmb/ndkg.owl#KGN_0000346	Intervention Measures	Decisions made or actions taken to mitigate specific health and performance risks.
+http://purl.org/utmb/ndkg.owl#KGN_0000467	Food Storage Conditions	"Food storage can be divided into three types, dry, refrigerated, and frozen."
+http://purl.org/utmb/ndkg.owl#KGN_0000103	Renal Stone (Risk)	"Kidney stones (also called renal calculi, nephrolithiasis or urolithiasis) are hard deposits made of minerals and salts that form inside your kidneys."
+http://purl.org/utmb/ndkg.owl#KGN_0000224	Balance Training	Balance training can be defined as a training aimed at improving postural control. Balance training can be used in different age and patient groups to enhance balance ability.
+http://purl.org/utmb/ndkg.owl#KGN_0000345	Intervention Decision	The selection of action(s) taken in response to an anomalous event to correct the causes and/or mitigate the consequences.
+http://purl.org/utmb/ndkg.owl#KGN_0000466	EVA Decision Support	"Ability of the system (human or computer) to support determinations, judgments, and courses of action before and during an extravehicular activity to reduce cognitive workload"
+http://snomed.info/id/282752000	Eye Injury	"Injury (environmental or traumatic) that occurs to the eyeball, eyelids, or orbital area."
+http://purl.org/utmb/ndkg.owl#KGN_0000109	Lenses	"Optical devices that neutralize the refractive error of the eye, thereby focusing images onto the retina."
+http://purl.org/utmb/ndkg.owl#KGN_0000228	Biomedical Exposures	Pre-flight research and medical tests utilizing ionizing radiation.
+http://purl.org/utmb/ndkg.owl#KGN_0000349	Lab Blood Monitoring	Lab blood monitoring enables the capability to detect immune changes during space flight that are either subclinical or become clinically significant.
+http://purl.obolibrary.org/obo/RBO_00015043	Solar Particle Event	Phenomenon which occurs when particles from the Sun are accelerated and transiently alter the local radiation environment.
+http://purl.org/utmb/ndkg.owl#KGN_0000380	Non-Modifiable Individual Factors	"Factors that influence the biologic variability among individual crewmembers that affect risk. Nonmodifiable factors include age, sex, genetic predispositions, pre-existing medical conditions, etc. These can be further decomposed depending on risk needs."
+http://purl.org/utmb/ndkg.owl#KGN_0000021	BHP Intervention Capability	Behavioral health and performance (BHP) countermeasures used in mission.
+http://purl.org/utmb/ndkg.owl#KGN_0000142	Microhost (Risk)	Risk of Adverse Health Effects Due to HostMicroorganism Interactions.
+http://purl.org/utmb/ndkg.owl#KGN_0000020	BHP Monitoring Capability	"Behavioral health and performance (BHP) ability to watch, observe, and track astronaut behavioral health, cognitive and emotional performance to implement interventions as needed."
+http://purl.org/utmb/ndkg.owl#KGN_0000383	Operations Design	"Planning and execution of an activity, mission, or maneuver. (NASA-STD-3001)"
+http://purl.org/utmb/ndkg.owl#KGN_0000140	Maintainability	A measure of the ease and rapidity with which a system or equipment can be preserved against failure or restored to operational status.
+http://purl.org/utmb/ndkg.owl#KGN_0000261	Cochlear Changes	"Permanent or temporary alterations to the structure or function of the inner ear (cochlea), usually for the worse."
+http://purl.org/utmb/ndkg.owl#KGN_0000260	Coagulability	"A measure of the capability to form a blood clot, modified by specific factors and biochemical pathways."
+http://purl.org/utmb/ndkg.owl#KGN_0000381	Nuclear Technology	Technology that involves nuclear reactions of atomic nuclei.
+http://snomed.info/id/423341008	Optic disc edema	Optic disc edema is swelling of intraocular portion of the optic nerve.
+http://purl.org/utmb/ndkg.owl#KGN_0000025	Ground Support	"An event or interaction that results in the vehicle system not functioning nominally or safely, with the potential for downstream consequences."
+http://purl.org/utmb/ndkg.owl#KGN_0000267	Crew Size	"The total number of astronauts on a mission team that have been trained to monitor, operate, and control parts of, or the whole space system in the vehicle/habitat."
+http://purl.org/utmb/ndkg.owl#KGN_0000024	Communication Factors	"Circumstances that effect the communication systems which include information provided to and from the crew by way of voice, text, video, and/or telemetry (NASA-STD-3001); this includes constraints on communication between a crew and ground support personnel."
+http://purl.org/utmb/ndkg.owl#KGN_0000145	SANS (Risk)	Risk of Space flight Associated Neuro-ocular Syndrome.
+http://purl.org/utmb/ndkg.owl#KGN_0000266	Crew Metabolism	Total amount of the biochemical reactions involved in maintaining the living condition of the cells of the crew.
+http://purl.org/utmb/ndkg.owl#KGN_0000387	Payload Chemicals	Chemicals that are used in experimental payloads.
+http://purl.obolibrary.org/obo/NCIT_C15720	Pharmacodynamics	"Pharmacodynamics is the study of a drug's molecular, biochemical, and physiologic effects or actions."
+http://purl.org/utmb/ndkg.owl#KGN_0000265	Compartment Isolation	Use of a small room/airlock to modify the environment in preparation for upcoming tasks.
+http://purl.org/utmb/ndkg.owl#KGN_0000386	Other Risks	Nodes in a directed acyclic graph which only identify a connection at the risk level and do not carry information about what specific connections exist in detail.
+http://purl.org/utmb/ndkg.owl#KGN_0000143	Monitoring Capability	"The ability periodically or continuously observe, record, and systematically review the status of vehicle, habitat, spacesuit or human systems."
+http://purl.org/utmb/ndkg.owl#KGN_0000264	Communication Delay	Time delay between when a communication is sent to when the communication is received.
+http://purl.org/utmb/ndkg.owl#KGN_0000138	HSI Processes	"Human System Integration (HSI) - An interdisciplinary and comprehensive management and engineering methodology that focuses on the integration of humans and cyber-physical systems during systems design and development or acquisition, to enable overall systems resilience."
+http://purl.org/utmb/ndkg.owl#KGN_0000259	CO2 Removal	Elimination of CO2.
+http://purl.org/utmb/ndkg.owl#KGN_0000016	Crew Health & Performance System	"The Human Health and Performance Directorate (HH&P)  is the primary organization focused on enhancing crew health and performance and mitigating the risks associated with human spaceflight. With three offices, three divisions and over 900 employees, all HH&P functions are ultimately aimed at achieving our mission: optimizing human health and performance throughout all phases of spaceflight."
+http://purl.org/utmb/ndkg.owl#KGN_0000137	Food Variety	"Foods with diverse characteristics including foods from the entire range of food groups (vegetables, fruits, grains, meat, fish, and dairy products)."
+http://purl.org/utmb/ndkg.owl#KGN_0000258	CO2 Production	Generation and release of CO2.
+http://purl.org/utmb/ndkg.owl#KGN_0000379	Muscle Physiologic changes	"Adaptations in muscle including muscle size, strength, metabolism, and hormonal and neural interactions, in response to the loading environment (e.g., altered gravity, exercise/work) that affect performance."
+http://purl.org/utmb/ndkg.owl#KGN_0000015	Vehicle Design	Agencies must establish and document a structured vehicle allocation methodology to determine the appropriate size and number of motor vehicles.
+http://purl.org/utmb/ndkg.owl#KGN_0000136	Food System	The interconnected network of activities and resources involved in providing nutrients for human nourishment and sustaining life.
+http://purl.org/utmb/ndkg.owl#KGN_0000257	CO2 Physiological Changes	"Measurable variances in cellular, tissue, organ, or body function that are caused by CO2 concentrations."
+http://purl.org/utmb/ndkg.owl#KGN_0000378	Multi-Sensory Integration Alterations	"Changes to the internal weighting of the individual's information-gathering abilities to see, hear, touch, smell, and taste (sensory signals) that are integrated by the central nervous system to produce the perception of the physical environment and one’s relation to it."
+http://purl.org/utmb/ndkg.owl#KGN_0000019	BHP Prevention Capability	Behavioral health and performance (BHP) support to prevent decline of astronaut behavioral health and cognitive performance; used in all mission phases.
+http://purl.org/utmb/ndkg.owl#312	Electrical Muscle Effects	The response of muscle tissue to electrical current.
+http://purl.obolibrary.org/obo/OMIT_0002842	Barotrauma	"Barotrauma is physical tissue damage caused by a pressure difference between an unvented space inside the body and surrounding gas or fluid. The damage is due to shear or overstretching of tissues. As a gas-filled space expands or contracts, it can cause damage to the local tissue."
+http://edamontology.org/topic_4013	Antimicrobial Resistance	"Antimicrobial Resistance (AMR) occurs when bacteria, viruses, fungi and parasites no longer respond to antimicrobial medicines. As a result of drug resistance, antibiotics and other antimicrobial medicines become ineffective and infections become difficult or impossible to treat, increasing the risk of disease spread, severe illness, disability and death."
+http://purl.org/utmb/ndkg.owl#KGN_0000010	World/Family Events	"Worrying about family and family events that might occur at home while the crew member is away can be stressful. In addition to family events, world events viewed from space, can be stressful."
+http://purl.org/utmb/ndkg.owl#KGN_0000131	Food Acceptability	A subjective measurement evaluating the hedonics associated with food.
+http://purl.org/utmb/ndkg.owl#KGN_0000252	Charged Surface	Surface with non-zero electric charge which exhibits electrostatic attraction or repulsion in the presence of other matter with charge.
+http://purl.org/utmb/ndkg.owl#KGN_0000373	Mission Level Outcomes	Set outcomes defined in the HSRB Risk Management Plan.
+http://purl.org/utmb/ndkg.owl#KGN_0000372	Mission Architecture Complexity	"A measure of the number, diversity, and intricacy of mission systems and operations (e.g., surface versus orbital), and their interactions, both pre-mission and during mission operations."
+http://snomed.info/id/302968001	Arterial Gas Embolism	"An arterial embolism is caused by one or more emboli getting stuck in an artery and blocking blood flow, causing ischemia, possibly resulting in infarction with tissue death (necrosis)."
+http://purl.org/utmb/ndkg.owl#KGN_0000371	Mild Hypoxia	Oxygen is not available in sufficient amounts at the tissue level.
+http://purl.obolibrary.org/obo/ENVO_02500041	Environmental Monitoring Capability	"Ability to test, log, and review the parameters that describe the environment in which the crew lives and operates to ensure they do not exceed specified limits."
+http://purl.org/utmb/ndkg.owl#KGN_0000370	Microbial Virulence Factors	Evidence that the virulence of certain microbes changes in response to space flight environment.
+http://purl.org/utmb/ndkg.owl#KGN_0000256	Clinical Significant Immune Dysregulation	"Refers to altered immune cellular function, inflammation, etc., reached a level which creates demonstrable / measurable / prognostic indication for impending disease."
+http://purl.org/utmb/ndkg.owl#KGN_0000013	Individual Factors	"Individual factors have been variously defined as non-work, demographic, physiological or psychological factors. They may represent a variety of important constructs at different relevant levels that may not be initially evident in their measurement."
+http://purl.org/utmb/ndkg.owl#KGN_0000376	Morphological G-Receptor Changes	"Changes to the end organ, including neuronal sensitivity changes, otoconial mass changes, cilia changes, etc."
+http://purl.org/utmb/ndkg.owl#KGN_0000012	Crew Composition	"The contractor is required to maintain a minimum 4:1 crew ratio (four qualified flight deck crews per aircraft), exclusive of those with Reserve or National Guard commitments, and material to enable at least 10 hours per day utilization of each aircraft. During CRAF activation, flight deck crewmembers must be US citizens eligible for a SECRET clearance. Within 15-days after requested by the CO, the contractor shall submit a list of names of the eligible crewmembers to HQ AMC/A34BC. Indigenous personnel may be used to fulfill other personnel requirements in accordance with company policy."
+http://purl.org/utmb/ndkg.owl#KGN_0000254	Circadian Misalignment	"Desynchronization between the timing of the master circadian pacemaker in the suprachiasmatic nucleus (SCN) of the hypothalamus and sleep wake timing or desynchronization between the SCN and peripheral oscillators, such as those in the gut, liver, and reproductive organs."
+http://purl.org/utmb/ndkg.owl#KGN_0000375	Modifiable Individual Factors	Factors that influence the biologic variability among individual crewmembers that affect risk.
+http://purl.org/utmb/ndkg.owl#KGN_0000011	Social Dynamics	"Social dynamics (or sociodynamics) is the study of the behavior of groups and of the interactions of individual group members, aiming to understand the emergence of complex social behaviors among microorganisms, plants and animals, including humans."
+http://purl.org/utmb/ndkg.owl#KGN_0000253	Chorioretinal Folds	"Undulations of the choroid, Bruch’s membrane (BM),retinal pigment epithelium (RPE), and the overlying retina. Can be subdivided into choroidal folds, retinal folds, and peripapillary wrinkles."
+http://purl.org/utmb/ndkg.owl#KGN_0000374	Mitigation Options	All possible actions that could be taken in response to the anomalous event to reduce the risk of adverse outcomes.
+http://purl.org/utmb/ndkg.owl#KGN_0000007	Crew Capability	"Capability and ability to preclude crew/passenger fatality or permanent disability. The ability to keep the crew/passengers alive using such capabilities as abort, escape, safe haven, emergency egress, rescue and emergency medical, in response to an imminent catastrophic condition."
+http://purl.org/utmb/ndkg.owl#KGN_0000006	Individual Readiness	
+http://purl.org/utmb/ndkg.owl#KGN_0000127	Anomalous Events	"Occurrences that are inconsistent with or deviating from what is usual, normal, or expected."
+http://purl.org/utmb/ndkg.owl#KGN_0000369	Microbial Resistance Factors	Description of the main drivers of antimicrobial resistance in space flight.
+http://purl.org/utmb/ndkg.owl#KGN_0000247	Cardiac Structure/Function	The anatomy and physiology of the heart and coronary vessels.
+http://purl.org/utmb/ndkg.owl#KGN_0000004	Distance from Earth	
+http://purl.org/utmb/ndkg.owl#KGN_0000367	Medication Compatibility	"A medication's harmonious coexistence with its storage environment, administration (e.g., delivery and simultaneous administration with other medications) that promotes safe and effective use without the incidence of negative physiological consequences or chemical interactions; Specific to suit - The ability of a medication to be used safely in the suit without negatively impacting the suit environment or components."
+http://purl.obolibrary.org/obo/MAXO_0035004	Fundoscopy	"An exam that uses a magnifying lens and a light to check the fundus of the eye (back of the inside of the eye, including the retina and optic nerve). The pupils may be dilated (enlarged) with medicated eye drops so the doctor can see through the pupil to the back of the eye. Fundoscopy may be used to check for eye problems, such as glaucoma, macular degeneration, eye cancer, optic nerve problems, or eye injury."
+http://purl.org/utmb/ndkg.owl#KGN_0000009	Team (Risk)	"Team risks are uncertain events or conditions that may have a positive or negative impact on your team's work, communication, collaboration, or motivation."
+http://purl.org/utmb/ndkg.owl#KGN_0000008	Task Performance	"The physical and mental activity required of the crew and other participants to accomplish mission goals. This includes the interaction with equipment, computers, procedures, training material, the environment, and other humans."
+http://purl.obolibrary.org/obo/NCIT_C99062	Skin Injury	
+http://snomed.info/id/40454005	Resistive Exercise	Dynamic exercises involving concentric (shortening) and eccentric (lengthening) muscle actions that recruit a muscle in isolation or multiple muscle groups.
+http://purl.allotrope.org/ontologies/process#AFP_0000161	Cleaning	"Physical removal of dust, microbes, marks, or other impurities, from the habitat/suit by washing, wiping, or disinfecting."
+http://purl.org/utmb/ndkg.owl#KGN_0000201	Vestibular Gain Change	"The relationship between accelerations, including gravitational, and vestibular responses."
+http://purl.org/utmb/ndkg.owl#KGN_0000322	Estimated Dose Rate	Estimated dose of ionizing radiation absorbed or delivered per unit of time.
+http://purl.org/utmb/ndkg.owl#KGN_0000443	Team Monitoring	"Observing changes in team task performance, team processes, and interpersonal dynamics through surveys and unobtrusive tools such as semantic analysis."
+http://purl.org/utmb/ndkg.owl#KGN_0000200	Vehicle Systems	"The set of systems, subsystems, and components (e.g., thermal control system, pump module, flow control valve) that make up a whole vehicle. Also, may refer to vehicle systems across multiple vehicles (Orion,Gateway, HLS)."
+http://purl.org/utmb/ndkg.owl#KGN_0000321	Estimated Career Dose	The amount of radiation dose estimated to be received by an astronaut over the course of their career.
+http://purl.org/utmb/ndkg.owl#KGN_0000442	Team Functionality	"The degree of coordination, cooperation, communication, and psychosocial adaptation that enables a team to successfully complete tasks and live and work as a team"
+http://purl.org/utmb/ndkg.owl#KGN_0000441	Team Composition	"The mix of individuals on a team that evolves to meet mission demands pre-mission through post mission phases. This includes those the ground support, intelligent systems, and sub-teams; composition factors for mission performance include personality traits,values, culture, demographics, knowledge, skills, and abilities."
+http://purl.org/utmb/ndkg.owl#KGN_0000315	Elimination	Describes the process by which a pharmacologic substance is pulled or removed from the body
+http://purl.org/utmb/ndkg.owl#KGN_0000436	System Complexity	"A measure of the number, diversity, and intricacy of vehicle systems and their interactions."
+http://snomed.info/id/212954004	DCS(Diagnosing Decompression Sickness) II	"Type 2 symptoms are considered more serious. They typically fall into three categories: neurological, inner ear and cardiopulmonary. Neurological symptoms may include numbness; paresthesia, or an altered sensation, such as tingling; muscle weakness; an impaired gait, or difficulty walking; problems with physical coordination or bladder control; paralysis; or a change in mental status, such as confusion or lack of alertness. Inner-ear symptoms may include ringing in the ears, known as “tinnitus”; hearing loss; vertigo or dizziness; nausea; vomiting; and impaired balance."
+http://purl.org/utmb/ndkg.owl#KGN_0000314	Electrical System Design	"Plan or specification for electrical systems, groups of connected electrical components, to carry out some operation."
+http://purl.org/utmb/ndkg.owl#KGN_0000435	Surveillance	
+http://purl.org/utmb/ndkg.owl#KGN_0000313	Electrical Hardware	"Tools, machinery, and other durable equipment that functionally rely on electric energy to drive their core parts."
+http://purl.org/utmb/ndkg.owl#KGN_0000434	Surface Dust Level	"The quantity of particulate matter on the surfaces within the within the vehicle, suit, or habitat in-mission."
+http://purl.org/utmb/ndkg.owl#KGN_0000433	Surface Contamination	"Harmful or poisonous substances affecting surface quality within the vehicle, suit, or habitat in-mission."
+http://purl.org/utmb/ndkg.owl#KGN_0000318	Environmental Control	Ability to regulate the surroundings or conditions in which the crew lives and operates.
+http://purl.org/utmb/ndkg.owl#KGN_0000317	Environmental Conditions	Nominal or off-nominal conditions within the vehicle.
+http://purl.org/utmb/ndkg.owl#KGN_0000438	System Telemetry	Vehicle/system state information received from distal sensors.
+http://purl.org/utmb/ndkg.owl#KGN_0000316	Endothelial Damage	Describes the process by which a pharmacologic substance is pulled or removed from the body
+http://purl.org/utmb/ndkg.owl#KGN_0000437	System Knowledge Resources	"The information that describes and fully specifies the system, including analyses, drawings, and requirements."
+http://purl.obolibrary.org/obo/NCIT_C67194	Energy (Calorie)	The Calorie Is a Unit of Energy. A calorie is the amount of energy in the form of heat that is required to heat one gram of water one degree Celsius.
+http://snomed.info/id/422400008	Vomit	"Vomiting (also known as emesis and throwing up) is the involuntary, forceful expulsion of the contents of one's stomach through the mouth and sometimes the nose."
+http://schema.org/workload	Workload	"Workload is the user’s perceived level of mental effort that is influenced by many factors, particularly task load and task design."
+http://purl.org/utmb/ndkg.owl#KGN_0000311	Effective Mission Duration	"The total time the crew is away from the surface of Earth, measured from launch of the Earth launch vehicle to landing or splashdown of the Earth return spacecraft. (NASA-STD-3001)"
+http://purl.org/utmb/ndkg.owl#KGN_0000432	Suit Vehicle/Habitat Contact	"Suit, vehicle, and/or habitat exposure to charged surfaces"
+http://purl.org/utmb/ndkg.owl#KGN_0000310	Effective Gravity Level	The period encompassing the exposure of crew to altered gravity during the design mission duration from launch to terrestrial landing.
+http://purl.org/utmb/ndkg.owl#KGN_0000431	Suit Damage	Harm or injury to the flight or EVA suit.
+http://purl.org/utmb/ndkg.owl#KGN_0000304	Dust Source	Event or trigger that introduces dust to the habitat.
+http://purl.org/utmb/ndkg.owl#KGN_0000302	Dust Monitor	A device utilized to provide data on exposure levels of celestial dust within the habitat.
+http://purl.org/utmb/ndkg.owl#KGN_0000423	Solar Cycle 	The solar cycle is the cycle that the Sun’s magnetic field goes through approximately every 11 years.
+http://purl.org/utmb/ndkg.owl#KGN_0000301	Distribution	One of four pharmacokinetic parameters that describes the transport process of a drug which deliver it to body areas away from the absorption site.
+http://purl.org/utmb/ndkg.owl#KGN_0000308	ECLS System	"Environmental Control and Life Support (ECLS) Systems designed to distribute air and remove contaminants. The elements include all hardware, software, equipment, facilities, personnel, processes, and procedures needed for this purpose."
+http://purl.org/utmb/ndkg.owl#KGN_0000429	Strobe Goggles	"Goggles that flash between a transparent and opaque view with the goal of helping people who are undergoing vestibular readaptation to maintain gaze without suffering from retinal slip, or an object slipping over your retina instead of stabilizing there."
+http://purl.org/utmb/ndkg.owl#KGN_0000307	Dysrhythmia Treatment	Medical management and care of an abnormal cardiac rhythm with medication or procedure during a space flight mission.
+http://purl.org/utmb/ndkg.owl#KGN_0000428	Stress Relieving VR	Virtual reality (VR) systems and/or programming that mitigates stress.
+http://purl.org/utmb/ndkg.owl#KGN_0000306	Dysrhythmia Monitor	"Ability to observe and keep a continuous record of an abnormality in a physiological rhythm, especially in the activity of the heart."
+http://purl.org/utmb/ndkg.owl#KGN_0000427	Standards/Requirements	"NASA documents (in HSRB DAGs, usually refers to the NASA STD 3001 Vol 1 and Vol 2) that contain common and repeated use of rules, conditions, guidelines, or characteristics for products or related processes and production methods and related management system practices. Requirements are usually much more detailed """"children"""" of these Standards and are negotiated with the Space flight Programs and HMTA at the onset of the Program. """
+http://purl.org/utmb/ndkg.owl#KGN_0000305	Dust Suspension	The process of dust within a habitable volume rising into the breathing zone.
+http://purl.org/utmb/ndkg.owl#KGN_0000426	Staged Denitrogenation	Gradual or phased reduction of nitrogen in lungs and body tissues by breathing gases devoid of nitrogen.
+http://purl.org/utmb/ndkg.owl#KGN_0000309	Effective Exposure Duration	Length of time of exposure to a hazard or other node.
+http://purl.org/utmb/ndkg.owl#KGN_0000461	Immune (Risk)	Risk of Adverse Health Event Due To Altered Immune Response;
+http://purl.org/utmb/ndkg.owl#KGN_0000460	Detect Bone Density Changes	"Ability to identify, measure and report changes in bone mineral distribution in a 2D image (g/cm 2 ) or 3D volume (g/cm 3 ) of bone tissue over time."
+http://purl.org/utmb/ndkg.owl#KGN_0000223	Autonomous Systems	"The combination of elements that function together to produce the capability to meet a need that under specified conditions, functions without intervention by the crew."
+http://purl.org/utmb/ndkg.owl#KGN_0000344	In Mission Shelf Life	The period from when a medication is packaged for a mission to the time of it's stated beyond use or expiration date.
+http://purl.org/utmb/ndkg.owl#KGN_0000465	Rhabdomyolysis Treatment	"Medical management and care for the destruction or degeneration of muscle tissue (as from traumatic injury, excessive exertion, or stroke)."
+http://purl.org/utmb/ndkg.owl#KGN_0000222	Atmospheric Scrubbers	"Life support equipment that removes metabolic, offgassing, and other contaminants from breathable air."
+http://purl.org/utmb/ndkg.owl#KGN_0000343	Inflight Hearing Exams	"Audiometric testing that evaluates the structure, function, and changes of the auditory system."
+http://purl.org/utmb/ndkg.owl#KGN_0000464	Medical (Risk)	"Risk of Adverse Health Outcomes and Decrements in Performance Due to Medical Conditions that occur in Mission, as well as Long Term Health Outcomes Due to Mission Exposures."
+http://purl.org/utmb/ndkg.owl#KGN_0000221	Astronaut Selection	The Astronaut Candidate selection process was developed to select highly qualified individuals for human space programs. Astronaut Candidates are selected on an as needed basis. Both civilian and military personnel are considered for the program.
+http://purl.org/utmb/ndkg.owl#KGN_0000342	Incapacitation/Crew Rescue	"Injuries sustained by a crewmember during an extravehicular activity that prevent the affected crewmember from continuing independent operations, and which would require support from other suited crew to avert mission level outcomes."
+http://purl.org/utmb/ndkg.owl#KGN_0000463	Hypoxia (Risk)	Risk of Reduced Crew Health and Performance Due to Hypoxia.
+http://purl.org/utmb/ndkg.owl#KGN_0000341	Impedance Factors	Factors that oppose an electrical circuits current impeding the flow of the charge.
+http://purl.org/utmb/ndkg.owl#KGN_0000462	Atmospheric Mixing	"The process of maintaining the correct balance of oxygen, nitrogen, water vapor, and carbon dioxide (CO2) in an enclosed environment."
+http://purl.org/utmb/ndkg.owl#KGN_0000337	Hostile Closed Environment	A sealed habitable volume and environmental system that does not rely on matter exchange with any part outside the system.
+http://purl.org/utmb/ndkg.owl#KGN_0000215	Ambient CO2 level	Concentration of carbon dioxide (CO2) in occupied spaces with air exchange; the distributed cabin CO2 level.
+http://purl.org/utmb/ndkg.owl#KGN_0000336	Helmet/Protective Visors	"Coverings, films, or filters designed into spacesuit visors that may provide protection from environmental factors."
+http://purl.org/utmb/ndkg.owl#KGN_0000457	Void Trial	Measure of the ability of the bladder to empty.
+http://purl.obolibrary.org/obo/NCIT_C17705	Training	"Training is teaching, or developing in oneself or others, any skills and knowledge or fitness that relate to specific useful competencies. Training has specific goals of improving one's capability, capacity, productivity and performance."
+http://purl.org/utmb/ndkg.owl#KGN_0000214	Airlock Design	An airtight room with two entrances that provides an isolated volume for transfer between a pressurized vehicle and the vacuum of space.
+http://purl.org/utmb/ndkg.owl#KGN_0000335	Hearing Countermeasures	A means to offset undesirable physical effects to hearing hazards.
+http://purl.org/utmb/ndkg.owl#KGN_0000456	Vehicle Failure	Compromised function of the vehicle system.
+http://purl.org/utmb/ndkg.owl#KGN_0000213	Air Contamination	Harmful or poisonous substances affecting air quality within the vehicle or habitat in-mission.
+http://purl.org/utmb/ndkg.owl#KGN_0000334	Hardware/System Failure	"An event or interaction that results in the vehicle system not functioning nominally or safely, with the potential for downstream consequences."
+http://purl.org/utmb/ndkg.owl#KGN_0000455	Vehicle Dynamics	Angular and linear accelerations of a vehicle.
+http://purl.org/utmb/ndkg.owl#KGN_0000218	Arc Flash/Sparking	Arc flash is a type of electrical explosion or discharge that results from a connection through air to ground or another voltage phase in an electrical system. · Arc - a high temperature luminous electrical discharge across a gap · Spark - a small incandescent particle created by some arcs
+http://purl.org/utmb/ndkg.owl#KGN_0000339	Human Electrical Contact	The contact between a human and anything electrical that can cause an electrical shock to the human.
+http://purl.org/utmb/ndkg.owl#KGN_0000338	Human Error	"Either an action that is not intended or desired by the person or a failure on the part of the person to perform a prescribed action within specified limits of accuracy, sequence, or time that does not produce the expected result and has led or has the potential to lead to an unwanted consequence."
+http://purl.org/utmb/ndkg.owl#KGN_0000459	Pharm (Risk)	Risk of Ineffective or Toxic Medications During Long- Duration Exploration Space flight.
+http://purl.obolibrary.org/obo/NCIT_C25206	Temperature	The degree or intensity of heat present in a substance or object; an environmental factor which may contribute to several Risks.
+http://purl.org/utmb/ndkg.owl#KGN_0000450	Urinary Muscle Changes	"Alterations in muscle function due to altered gravity environment, side effects of medications, etc."
+http://purl.org/utmb/ndkg.owl#KGN_0000212	Acoustics (Risk)	Risk of Reduced Physical Performance Capabilities Due to Reduced Aerobic Capacity.
+http://purl.org/utmb/ndkg.owl#KGN_0000454	Urine Flow	The ability for urine to flow normally through the urinary tract.
+http://purl.org/utmb/ndkg.owl#KGN_0000211	Absorption	Absorption is the journey of a drug travelling from the site of administration to the site of action.
+http://purl.org/utmb/ndkg.owl#KGN_0000332	Flight Recertification	Evaluation of a crewmember’s physical or mental health after a mission to assist in determination of ability to return to flight.
+http://purl.org/utmb/ndkg.owl#KGN_0000453	Urine Concentration	The state of saturation of urine relative to water content.
+http://purl.org/utmb/ndkg.owl#KGN_0000210	Water Contamination	Harmful or poisonous substances affecting water quality within the vehicle or habitat in-mission.
+http://purl.org/utmb/ndkg.owl#KGN_0000452	Urinary Retention (Risk)	Risk of Urinary Retention.
+http://purl.obolibrary.org/obo/OMIT_0010431	Percutaneous Nephrostomy	"A percutaneous nephrostomy is the placement of a small, flexible tube (catheter) through your skin into your kidney to drain your urine. It is inserted through your back or flank."
+http://purl.org/utmb/ndkg.owl#KGN_0000326	Exercise Hardware	Equipment or systems designed to perform aerobic and resistive training stimuli needed to maintain health and performance that enables successful mission task performance.
+http://purl.org/utmb/ndkg.owl#KGN_0000447	Tox (Risk)	Risk of Toxic Exposure.
+http://purl.org/utmb/ndkg.owl#KGN_0000204	Vision and Gaze Control	"Vision is the ability to see and gaze control is the ability to orient the eyes, and maintain fixation, on a desired visual target."
+http://purl.org/utmb/ndkg.owl#KGN_0000325	Evacuation	"Emergency evacuation is an immediate egress or escape of people away from an area that contains an imminent threat, an ongoing threat or a hazard to lives or property."
+http://purl.org/utmb/ndkg.owl#KGN_0000446	Technical Training	Training focused on technical skills needed to perform tasks in space.
+http://purl.org/utmb/ndkg.owl#KGN_0000203	Vibration Isolation System	Passive or active mechanical interface between the exercise device and the vehicle to isolate the exercise system and eliminate/attenuate exercise reaction loads transmitted to the vehicle
+http://purl.org/utmb/ndkg.owl#KGN_0000445	Team Training	Training focused on team skills for living and working together in space.
+http://snomed.info/id/389086002	Hypoxia	Hypoxia is a state in which oxygen is not available in sufficient amounts at the tissue level to maintain adequate homeostasis; this can result from inadequate oxygen delivery to the tissues either due to low blood supply or low oxygen content in the blood (hypoxemia).
+http://purl.org/utmb/ndkg.owl#KGN_0000202	Vestibular Motor Neuron Change	"Vestibular neurons adapt to reduced or increased firing rates and become more, or less, sensitive"
+http://purl.org/utmb/ndkg.owl#KGN_0000323	Estimated Mission Radiation Dose	"Estimated amount of radiation dose for a particular design reference mission category (length of a mission, distance from Earth, etc.)."
+http://purl.org/utmb/ndkg.owl#KGN_0000444	Team Skills	Skills that enable team functioning and performance.
+http://purl.org/utmb/ndkg.owl#KGN_0000209	Waste Management System	"The combination of elements that function together to produce the capability to facilitate the clean, efficient, and reliable collection and management of human waste (urine, feces, vomitus, and menses)."
+http://purl.obolibrary.org/obo/NCIT_C84973	Orthostatic Intolerance	A means to offset undesirable effects of orthostatic intolerance.
+http://purl.org/utmb/ndkg.owl#KGN_0000208	VTE (Concern)	Concern of Venous Thromboembolism (VTE).
+http://purl.org/utmb/ndkg.owl#KGN_0000329	Extraterrestrial Surface	Celestial bodies existing or occurring outside the earth or its atmosphere.
+http://purl.org/utmb/ndkg.owl#KGN_0000207	Visual Fields Test	Ophthalmic diagnostic test which detects defects in central and peripheral vision.
+http://purl.org/utmb/ndkg.owl#KGN_0000328	External Contaminants	Harmful or poisonous substances on the outside of a spacecraft that may enter the habitable volume via suit contamination during EVA or docking of visiting vehicles.
+http://purl.org/utmb/ndkg.owl#KGN_0000449	Treatment Decision	Determination of need to manage and provide care for crew with medications or procedures during a space flight mission.
+http://purl.org/utmb/ndkg.owl#KGN_0000327	Exercise Prescription	"Planned, structured, repetitive, and purposeful activities that involve progressive modifications over time for frequency, intensity, time, and volume."
+http://purl.org/utmb/ndkg.owl#KGN_0000448	Trapped Radiation	Charged particles trapped by Earth's magnetic field.
