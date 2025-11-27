@@ -14,15 +14,15 @@
     <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
     <Import>http://purl.obolibrary.org/obo/bfo/2019-08-26/bfo.owl</Import>
     <Import>http://purl.obolibrary.org/obo/cob/releases/2025-06-30/cob.owl</Import>
-    <Import>https://raw.githubusercontent.com/NASA-Human-Risk-Project/NDKG/refs/heads/main/import/mierot_bcio.owl</Import>
-    <Import>https://raw.githubusercontent.com/NASA-Human-Risk-Project/NDKG/refs/heads/main/import/mierot_envo.owl</Import>
-    <Import>https://raw.githubusercontent.com/NASA-Human-Risk-Project/NDKG/refs/heads/main/import/mierot_gsso.owl</Import>
-    <Import>https://raw.githubusercontent.com/NASA-Human-Risk-Project/NDKG/refs/heads/main/import/mierot_maxo.owl</Import>
-    <Import>https://raw.githubusercontent.com/NASA-Human-Risk-Project/NDKG/refs/heads/main/import/mierot_mondo.owl</Import>
-    <Import>https://raw.githubusercontent.com/NASA-Human-Risk-Project/NDKG/refs/heads/main/import/mierot_occo.owl</Import>
-    <Import>https://raw.githubusercontent.com/NASA-Human-Risk-Project/NDKG/refs/heads/main/import/mierot_ogms.owl</Import>
-    <Import>https://raw.githubusercontent.com/NASA-Human-Risk-Project/NDKG/refs/heads/main/import/mierot_pdro.owl</Import>
-    <Import>https://raw.githubusercontent.com/NASA-Human-Risk-Project/NDKG/refs/heads/main/import/mierot_ro.owl</Import>
+    <Import>https://raw.githubusercontent.com/SHSR-SHSR/NDKG/refs/heads/main/import/mierot_bcio.owl</Import>
+    <Import>https://raw.githubusercontent.com/SHSR-SHSR/NDKG/refs/heads/main/import/mierot_envo.owl</Import>
+    <Import>https://raw.githubusercontent.com/SHSR-SHSR/NDKG/refs/heads/main/import/mierot_gsso.owl</Import>
+    <Import>https://raw.githubusercontent.com/SHSR-SHSR/NDKG/refs/heads/main/import/mierot_maxo.owl</Import>
+    <Import>https://raw.githubusercontent.com/SHSR-SHSR/NDKG/refs/heads/main/import/mierot_mondo.owl</Import>
+    <Import>https://raw.githubusercontent.com/SHSR-SHSR/NDKG/refs/heads/main/import/mierot_occo.owl</Import>
+    <Import>https://raw.githubusercontent.com/SHSR-SHSR/NDKG/refs/heads/main/import/mierot_ogms.owl</Import>
+    <Import>https://raw.githubusercontent.com/SHSR-SHSR/NDKG/refs/heads/main/import/mierot_pdro.owl</Import>
+    <Import>https://raw.githubusercontent.com/SHSR-SHSR/NDKG/refs/heads/main/import/mierot_ro.owl</Import>
     <Declaration>
         <Class IRI="http://purl.org/utmb/ndkg-base.owl#NDKG_0000477"/>
     </Declaration>
