@@ -14,6 +14,7 @@
     <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
     <Import>http://purl.obolibrary.org/obo/bfo/2019-08-26/bfo.owl</Import>
     <Import>http://purl.obolibrary.org/obo/cob/releases/2025-06-30/cob.owl</Import>
+    <Import>http://purl.org/utmb/ndkg-properties.owl</Import>
     <Import>https://raw.githubusercontent.com/SHSR-SHSR/NDKG/refs/heads/main/import/mierot_bcio.owl</Import>
     <Import>https://raw.githubusercontent.com/SHSR-SHSR/NDKG/refs/heads/main/import/mierot_envo.owl</Import>
     <Import>https://raw.githubusercontent.com/SHSR-SHSR/NDKG/refs/heads/main/import/mierot_gsso.owl</Import>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="Imports Wizard Entry" name="http://purl.org/utmb/ndkg-properties.owl" uri="https://raw.githubusercontent.com/SHSR-SHSR/NDKG/refs/heads/main/ndkg-properties.owl"/>
     <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/ro/releases/2025-06-24/ro.owl" uri="https://raw.githubusercontent.com/NASA-Human-Risk-Project/NDKG/refs/heads/main/import/mierot_ro.owl"/>
     <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/occo/releases/2024-04-28/occo.owl" uri="https://raw.githubusercontent.com/NASA-Human-Risk-Project/NDKG/refs/heads/main/import/mierot_occo.owl"/>
     <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/ogms/2021-08-19/ogms.owl" uri="https://raw.githubusercontent.com/NASA-Human-Risk-Project/NDKG/refs/heads/main/import/mierot_ogms.owl"/>
@@ -21,18 +22,25 @@
     <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/ro/releases/2025-06-24/ro-base.owl" uri="http://purl.obolibrary.org/obo/ro/ro-base.owl"/>
     <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/ro/releases/2025-06-24/core.owl" uri="http://purl.obolibrary.org/obo/ro/core.owl"/>
     <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
-        <uri id="Automatically generated entry, Timestamp=1764221306340" name="http://humanbehaviourchange.org/ontology/bcio.owl" uri="import/mierot_bcio.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1764221306340" name="http://purl.obolibrary.org/obo/envo.owl" uri="import/mierot_envo.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1764221306340" name="http://purl.obolibrary.org/obo/gsso.owl" uri="import/mierot_gsso.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1764221306340" name="http://purl.obolibrary.org/obo/maxo.owl" uri="import/mierot_maxo.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1764221306340" name="http://purl.obolibrary.org/obo/mondo.owl" uri="import/mierot_mondo.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1764221306340" name="http://purl.obolibrary.org/obo/occo.owl" uri="import/mierot_occo.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1764221306340" name="http://purl.obolibrary.org/obo/ogms.owl" uri="import/mierot_ogms.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1764221306340" name="http://purl.obolibrary.org/obo/pdro.owl" uri="import/mierot_pdro.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1764221306340" name="http://purl.obolibrary.org/obo/ro.owl" uri="import/mierot_ro.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1764221306340" name="duplicate:http://purl.org/utmb/ndkg.owl" uri="ndkg-base.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1764221306340" name="duplicate:http://purl.org/utmb/ndkg.owl" uri="ndkg.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1764221306340" name="http://purl.org/utmb/ndkg.owl/" uri="archive/ndkg.rdf"/>
-        <uri id="Automatically generated entry, Timestamp=1764221306340" name="shadowed:http://purl.org/utmb/ndkg.owl" uri="archive/ndkg.owx"/>
+        <uri id="Automatically generated entry, Timestamp=1765226199556" name="http://humanbehaviourchange.org/ontology/bcio.owl" uri="import/mierot_bcio.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1765226199556" name="http://purl.obolibrary.org/obo/chmo-extract.owl" uri="property-import/chmo-extract.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1765226199556" name="http://purl.obolibrary.org/obo/cob-extract.owl" uri="property-import/cob-extract.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1765226199556" name="http://purl.obolibrary.org/obo/envo.owl" uri="import/mierot_envo.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1765226199556" name="http://purl.obolibrary.org/obo/gsso.owl" uri="import/mierot_gsso.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1765226199556" name="http://purl.obolibrary.org/obo/maxo.owl" uri="import/mierot_maxo.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1765226199556" name="http://purl.obolibrary.org/obo/mondo.owl" uri="import/mierot_mondo.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1765226199556" name="http://purl.obolibrary.org/obo/occo.owl" uri="import/mierot_occo.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1765226199556" name="http://purl.obolibrary.org/obo/ogms.owl" uri="import/mierot_ogms.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1765226199556" name="http://purl.obolibrary.org/obo/pdro.owl" uri="import/mierot_pdro.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1765226199556" name="http://purl.obolibrary.org/obo/ro.owl" uri="import/mierot_ro.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1765226199556" name="http://purl.org/utmb/ndkg-properties.owl" uri="ndkg-properties.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1765226199556" name="duplicate:http://purl.org/utmb/ndkg.owl" uri="ndkg-base.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1765226199556" name="duplicate:http://purl.org/utmb/ndkg.owl" uri="ndkg.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1765226199556" name="http://purl.org/utmb/ndkg.owl/" uri="archive/ndkg.rdf"/>
+        <uri id="Automatically generated entry, Timestamp=1765226199556" name="http://semanticscience.org/ontology/ro-extract.owl" uri="property-import/ro-extract.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1765226199556" name="http://semanticscience.org/ontology/sio-extract.owl" uri="property-import/sio-extract.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1765226199556" name="shadowed:http://humanbehaviourchange.org/ontology/bcio.owl" uri="property-import/bcio_extract.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1765226199556" name="shadowed:http://purl.org/utmb/ndkg-properties.owl" uri="property-import/results/ndkg-properties.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1765226199556" name="shadowed:http://purl.org/utmb/ndkg.owl" uri="archive/ndkg.owx"/>
     </group>
 </catalog>
